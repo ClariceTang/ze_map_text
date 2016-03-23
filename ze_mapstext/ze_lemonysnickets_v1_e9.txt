@@ -2,23 +2,23 @@
 {
 	"*Map created by Snake*"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Snake  翻译：银月筱瑶**"
 	}
 	"*Defend Inside for 45s!*"
 	{
-		"chi"		"** **"
+		"chi"		"**进入里面防守45秒**"
 	}
 	"*5 Seconds Left!*"
 	{
-		"chi"		"** **"
+		"chi"		"**再防守5秒**"
 	}
 	"*Hold here for 30s!*"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守这里30秒**"
 	}
 	"*10 seconds left!*"
 	{
-		"chi"		"** **"
+		"chi"		"**再坚守10秒**"
 	}
 	"*** Map by : Airvulpes ***"
 	{
@@ -26,90 +26,90 @@
 	}
 	"*Defend here for 15 sec*"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里15秒**"
 	}
 	"*Hold for another 5s!*"
 	{
-		"chi"		"** **"
+		"chi"		"**再守5秒**"
 	}
 	"*Someone has to get inside to open the doors*"
 	{
-		"chi"		"** **"
+		"chi"		"**需要有一位玩家开启城堡大门（身法好的去）**"
 	}
 	"*Castle Doors open in 15s!*"
 	{
-		"chi"		"** **"
+		"chi"		"**城堡大门将在15秒后打开**"
 	}
 	"*Portal is Charging*"
 	{
-		"chi"		"** **"
+		"chi"		"**传送器正在充能**"
 	}
 	"*Castle Doors Open!*"
 	{
-		"chi"		"** **"
+		"chi"		"**城堡大门已经打开！（继续防守）**"
 	}
 	"*Portal 25 percent charged*"
 	{
-		"chi"		"** **"
+		"chi"		"**传送器充能25%**"
 	}
 	"*Zombies have crawled through the window!*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸突破了窗户，小心！**"
 	}
 	"*Portal 50 percent charged!*"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门充能50%**"
 	}
 	"*Portal 75 percent charged!!*"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门充能75%**"
 	}
 	"*Portal 100 percent charged!*"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门充能100%**"
 	}
 	"*Jump into the middle of the portal!*"
 	{
-		"chi"		"** **"
+		"chi"		"**快跳进传送门！**"
 	}
 	"*Gate will open soon defend!*"
 	{
-		"chi"		"** **"
+		"chi"		"**门很快就会开放，防守住！**"
 	}
 	"*Zombie boat door broken!*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸小船的道路已经开通**"
 	}
 	"*Zombie boat leaving in 10s*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸小船10秒后将会离开**"
 	}
 	"*Zombie boat is leaving!*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸小船已经出发，注意防守**"
 	}
 	"*Back Gate Open*"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了，撤退**"
 	}
 	"*Hold here!*"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守这里，不要后退**"
 	}
 	"*Gates are open!*"
 	{
-		"chi"		"** **"
+		"chi"		"**路开了**"
 	}
 	"*Nuke in 30 sec!*"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹将会在30秒后到来**"
 	}
 	"*Nuke in 10 sec!*"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹将会在10秒后到来**"
 	}
 	"*Map ported by Et3rnity*"
 	{
-		"chi"		"** **"
+		"chi"		"**地图移植：Et3rnity  地图翻译：银月筱瑶**"
 	}
 }
